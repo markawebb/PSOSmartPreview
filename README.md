@@ -10,6 +10,15 @@
 Please use the following link to download:
 
 You must have Java 1.6 and Apache Ant properly intstalled. 
+
+Releasehttp://cdn.percussion.com/downloads/open/psosmartpreview/PSO-smart-preview.zipDevelopmenthttp://cdn.percussion.com/downloads/open/psosmartpreview/pso-smart-preview-development.zip
+
+
+
+
+
+Nightly Snapshot
+
 http://cdn.percussion.com/downloads/open/psosmartpreview/pso-smart-preview-SNAPSHOT.zip
 
 Extract zip to an empty folder.
